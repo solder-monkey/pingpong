@@ -59,3 +59,5 @@ object PingPongTest extends App {
   // start them going
   ping ! StartMessage
 }
+
+//This is a useless comment...
